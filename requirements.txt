@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+pandas_ta
+yfinance
+plotly
+mplfinance
+scipy
+tqdm
+backtesting
